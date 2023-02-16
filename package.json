@@ -10,5 +10,13 @@
   "license": "ISC",
   "dependencies": {
     "jquery": "^3.1.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janosick/Project_17.git"
+  },
+  "bugs": {
+    "url": "https://github.com/janosick/Project_17/issues"
+  },
+  "homepage": "https://github.com/janosick/Project_17#readme"
 }
